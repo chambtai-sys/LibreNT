@@ -2,6 +2,8 @@
 
 > A free, open-source office suite for **Windows NT 4.0** — no internet, no installers, just batch files and QBasic.
 
+> **Version 1.5 coming soon** — stay tuned for new features and improvements.
+
 ---
 
 ## Components
