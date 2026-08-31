@@ -1,1 +1,75 @@
-IyBMaWJyZU5UIE9mZmljZSBTdWl0ZSAxLjAKCj4gQSBmcmVlLCBvcGVuLXNvdXJjZSBvZmZpY2Ugc3VpdGUgZm9yICoqV2luZG93cyBOVCA0LjAqKiDigJQgbm8gaW50ZXJuZXQsIG5vIGluc3RhbGxlcnMsIGp1c3QgYmF0Y2ggZmlsZXMgYW5kIFFCYXNpYy4KCi0tLQoKIyMgQ29tcG9uZW50cwoKfCBBcHAgfCBUZWNoIHwgV2hhdCBpdCBkb2VzIHwKfC0tLS0tfC0tLS0tLXwtLS0tLS0tLS0tLS0tfAp8ICoqV3JpdGVyKiogfCBXb3JkUGFkIChidWlsdC1pbikgfCBGdWxsIHdvcmQgcHJvY2Vzc29yLCBSVEYgLyBET0Mgc3VwcG9ydCB8CnwgKipDYWxjKiogfCBRQmFzaWMgfCAxOMOXOCBncmlkIHNwcmVhZHNoZWV0IHdpdGggQ1NWIGV4cG9ydCB8CnwgKipOb3RlcyoqIHwgTm90ZXBhZCAoYnVpbHQtaW4pIHwgUXVpY2sgdGV4dCBub3RlcyB8CnwgKipJbXByZXNzKiogfCBCYXRjaCBzY3JpcHQgfCBUZXh0LW1vZGUgc2xpZGVzaG93IHZpZXdlciAoLklNUCBmaWxlcykgfAoKLS0tCgojIyBJbnN0YWxsYXRpb24gdmlhIE1TLURPUyBQcm9tcHQKCmBgYAoxLiBPcGVuIE1TLURPUyBQcm9tcHQKICAgU3RhcnQgPiBQcm9ncmFtcyA+IE1TLURPUyBQcm9tcHQKCjIuIE5hdmlnYXRlIHRvIHRoZSBMaWJyZU5UIGZvbGRlcjoKICAgQ0QgQzpcRE9XTkxPQURTXExJQlJFTlQKICAgKG9yIGZyb20gZmxvcHB5OiBDRCBBOlxMSUJSRU5UKQoKMy4gUnVuIHRoZSBpbnN0YWxsZXI6CiAgIElOU1RBTEwKCjQuIExhdW5jaCBhdCBhbnkgdGltZToKICAgQ0QgQzpcTElCUkVOVAogICBPRkZJQ0UKYGBgCgotLS0KCiMjIEdldHRpbmcgUUJBU0lDLkVYRSAocmVxdWlyZWQgZm9yIENhbGMpCgpRQkFTSUMuRVhFIGlzIG5vdCBidW5kbGVkIGZvciBsaWNlbnNpbmcgcmVhc29ucy4gR2V0IGl0IGZyb206CgotICoqTVMtRE9TIDYueCBkaXNrKiog4oaSIGBRQkFTSUMuRVhFYAotICoqV2luZG93cyA5NS85OCBDRCoqIOKGkiBgXE9USEVSXE9MRE1TRE9TXFFCQVNJQy5FWEVgCi0gKipOVCA0LjAgQ0QgKHNvbWUgZWRpdGlvbnMpKiog4oaSIGBcU1VQUE9SVFxERUJVR1xRQkFTSUMuRVhFYAoKQ29weSBpdCB0byBgQzpcTElCUkVOVFxgIOKAlCBDYWxjIHdpbGwgZmluZCBpdCBhdXRvbWF0aWNhbGx5LgoKLS0tCgojIyBMaWJyZU5UIENhbGMgS2V5Ym9hcmQgUmVmZXJlbmNlCgp8IEtleSB8IEFjdGlvbiB8CnwtLS0tLXwtLS0tLS0tLXwKfCBBcnJvdyBrZXlzIHwgTmF2aWdhdGUgY2VsbHMgfAp8IEVudGVyIHwgRWRpdCBjZWxsIHwKfCBUYWIgfCBNb3ZlIHJpZ2h0IC8gd3JhcCB0byBuZXh0IHJvdyB8CnwgYC5gIChwZXJpb2QpIHwgQ2xlYXIgY2VsbCB8CnwgQ3RybCtTIHwgU2F2ZSBhcyBDU1YgfAp8IEN0cmwrTiB8IE5ldyBibGFuayBzaGVldCB8CnwgRjEgfCBIZWxwIHwKfCBFU0MgfCBRdWl0IHRvIG1lbnUgfAoKLS0tCgojIyBMaWJyZU5UIEltcHJlc3MKCkNyZWF0ZSBhIGAuSU1QYCB0ZXh0IGZpbGUuIFNlcGFyYXRlIHNsaWRlcyB3aXRoIGAtLS1gIG9uIGl0cyBvd24gbGluZToKCmBgYApXZWxjb21lIHRvIE15IFByZXNlbnRhdGlvbgo9PT09PT09PT09PT09PT09PT09PT09PT09PT0KICBTbGlkZSBvbmUgY29udGVudCBoZXJlLgotLS0KU2xpZGUgVHdvCj09PT09PT09PQogIE1vcmUgY29udGVudC4KLS0tClRoZSBFbmQKYGBgCgpSdW4gd2l0aDoKYGBgCklNUFJFU1MgTVlTSE9XLklNUApgYGAKCi0tLQoKIyMgUmVxdWlyZW1lbnRzCgotIFdpbmRvd3MgTlQgNC4wIChhbHNvIHdvcmtzIG9uIFdpbmRvd3MgOTUvOTgpCi0gOCBNQiBSQU0KLSAxIE1CIGRpc2sgc3BhY2UKLSBgUUJBU0lDLkVYRWAgZm9yIENhbGMgKHNlZSBhYm92ZSkKCi0tLQoKIyMgTGljZW5zZQoKTUlUIOKAlCBmcmVlIHRvIHVzZSwgc2hhcmUsIGFuZCBtb2RpZnkuCg==
+# LibreNT Office Suite 1.0
+
+> A free, open-source office suite for **Windows NT 4.0** — no internet, no installers, just batch files and QBasic.
+
+---
+
+## Components
+
+| App | Tech | What it does |
+|-----|------|-------------|
+| **Writer** | WordPad (built-in) | Full word processor, RTF / DOC support |
+| **Calc** | QBasic | 18x8 grid spreadsheet with CSV export |
+| **Notes** | Notepad (built-in) | Quick text notes |
+| **Impress** | Batch script | Text-mode slideshow viewer (.IMP files) |
+
+---
+
+## Installation via MS-DOS Prompt
+
+```
+1. Open MS-DOS Prompt
+   Start > Programs > MS-DOS Prompt
+
+2. Navigate to the LibreNT folder:
+   CD C:\DOWNLOADS\LIBRENT
+   (or from floppy: CD A:\LIBRENT)
+
+3. Run the installer:
+   INSTALL
+
+4. Launch at any time:
+   CD C:\LIBRENT
+   OFFICE
+```
+
+---
+
+## Getting QBASIC.EXE (required for Calc)
+
+QBASIC.EXE is not bundled for licensing reasons. Get it from:
+
+- **MS-DOS 6.x disk** -> `QBASIC.EXE`
+- **Windows 95/98 CD** -> `\OTHER\OLDMSDOS\QBASIC.EXE`
+- **NT 4.0 CD (some editions)** -> `\SUPPORT\DEBUG\QBASIC.EXE`
+
+Copy it to `C:\LIBRENT\` — Calc will find it automatically.
+
+---
+
+## LibreNT Calc Keys
+
+| Key | Action |
+|-----|--------|
+| Arrow keys | Navigate cells |
+| Enter | Edit cell |
+| Tab | Move right / wrap |
+| `.` (period) | Clear cell |
+| Ctrl+S | Save as CSV |
+| Ctrl+N | New blank sheet |
+| F1 | Help |
+| ESC | Quit to menu |
+
+---
+
+## Requirements
+
+- Windows NT 4.0 (also works on Windows 95/98)
+- 8 MB RAM, 1 MB disk
+- `QBASIC.EXE` for Calc
+
+---
+
+## License
+
+MIT — free to use, share, and modify.
